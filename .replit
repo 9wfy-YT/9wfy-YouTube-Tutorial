@@ -1,2 +1,2 @@
-run = "node ."
+run = "node start"
 language = "NodeJS"
